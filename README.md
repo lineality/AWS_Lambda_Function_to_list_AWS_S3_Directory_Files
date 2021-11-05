@@ -90,7 +90,6 @@ If you need to "filter" results, for example exluding some items from your actio
 
 ```
 """
-workds!
 
 starting with working file-name list code:
 
