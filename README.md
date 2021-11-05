@@ -68,7 +68,7 @@ def lambda_handler(event, context):
 
     # Set Constants
     AWS_REGION = "us-east-1"
-    S3_BUCKET_NAME = "api-sample-bucket1"
+    S3_BUCKET_NAME = "sample-bucket-01"
 
     ##############
     # Call AWS S3
